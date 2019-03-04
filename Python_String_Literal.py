@@ -34,3 +34,13 @@ print(g.replace("Python", "Apex"))
 h = "Python is the best"
 print(g.split(" "))
 
+
+#These are output of the methods
+y
+thon i
+Python is the best
+18
+python is the best
+PYTHON IS THE BEST
+Apex is the best
+['Python', 'is', 'the', 'best']
