@@ -1,3 +1,3 @@
 # Python_Practice
-Learn basic programming for create manythings with Python.
-Please Enjoy.
+Learn basic programming for becoming the topcoder with Python.
+### Please Enjoy.
